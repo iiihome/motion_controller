@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\SJX\Desktop\motion_controller\top.ncd
+OUTFILE=C:\Users\SJX\Desktop\motion_controller\top.bit
+FAMILY=Spartan3
+PART=xc3s50-4tq144
+WORKINGDIR=C:\Users\SJX\Desktop\motion_controller
+LICENSE=WebPack
+USER_INFO=__0_0_0
